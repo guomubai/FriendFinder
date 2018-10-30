@@ -1,0 +1,28 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "an application that uses Express and Path NPM packages within Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guomubai/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guomubai/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/guomubai/FriendFinder#readme"
+}
